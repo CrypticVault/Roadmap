@@ -3,4 +3,5 @@ uhhh this is just a public roadmap cause uh why not?
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ RoadMap For CrypticVault
 1. to get Online Status's working(invite's are weird but work)
 2. all other api's(execpt saving custom rooms)
-3. saving custom rooms
+3. to get friending stable 
+4. saving custom rooms
