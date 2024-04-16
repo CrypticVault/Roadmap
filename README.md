@@ -6,4 +6,3 @@ uhhh this is just a public roadmap cause uh why not?
 3. storefront stuff(ex. buying items and add more items)
 4. leaderboards
 5. and then other api's that i may work on at some points
-6. to get friending stable 
